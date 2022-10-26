@@ -1,5 +1,5 @@
 # used_cars_project
 
-I used this project to practice comparing an OLS regression model to a KNN regression model. 
+This project compares three different maching learning regression models (Linear, KNN, and Random Forest) to predict the price of a used car. The project, and 5 data files are all uploaded. 
 
 The data was pulled from Kaggle (https://www.kaggle.com/datasets/adityadesai13/used-car-dataset-ford-and-mercedes)
